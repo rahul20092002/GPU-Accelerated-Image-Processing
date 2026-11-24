@@ -1,0 +1,4 @@
+Operation,CPU_ms,GPU_Kernel_ms,GPU_Total_ms,Speedup,Max_Difference
+Grayscale,17.7836,0.162906,5.0218,3.54128,1
+Gaussian Blur,634.981,1.94486,8.50082,74.6965,0
+Sobel,103.896,0.266669,2.50213,41.523,0
